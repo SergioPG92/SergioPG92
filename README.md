@@ -1,7 +1,15 @@
-# ¡Hola! 👋
+# ¡Bienvenido a mi GitHub! 👋
 
-Este es mi repositorio principal, pronto agregaré contenido interesante.  
-Gracias por pasarte por aquí.
+Este es mi repositorio principal, la **página de presentación** de mi perfil.
+
+Aquí podrás encontrar un resumen y enlaces a mis proyectos y repositorios públicos.
+
+---
+
+🔍 **Explora mis otros repositorios** para ver en qué estoy trabajando y mis proyectos favoritos.
+
+¡Gracias por pasarte por aquí! 🚀
+
 
 <!--
 **SergioPG92/SergioPG92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
