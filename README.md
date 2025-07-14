@@ -1,4 +1,7 @@
-## Hi there 👋
+# ¡Hola! 👋
+
+Este es mi repositorio principal, pronto agregaré contenido interesante.  
+Gracias por pasarte por aquí.
 
 <!--
 **SergioPG92/SergioPG92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
